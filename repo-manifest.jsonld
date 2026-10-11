@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/aioodbc/commit/62069a2ecbbc284af75a5d6cf91a1fc4a505f20b",
       "git:hexsha": "62069a2ecbbc284af75a5d6cf91a1fc4a505f20b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.5.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.5.0",
+      "repolex:parsedAt": "2026-10-11T08:55:50.449633+00:00"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/aioodbc/commit/d9a00ed15dae4dc36376cb4642ba841229b12faf",
